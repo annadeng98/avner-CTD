@@ -1,0 +1,15 @@
+.head{
+  margin-left: 300px;
+  font-size: 40px;
+}
+.cats{
+  margin-left: 100px;
+  height: 200px;
+  width: 200px;
+  margin-top: 50px;
+
+}
+.catsc{
+  background-color: red;
+  display: flex;
+}
